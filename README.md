@@ -29,6 +29,7 @@ This is the backend service for an **Admin Panel Application**, built with **Nod
 ---
 
 ## 📁 Folder Structure
+```bash
 nodejs-ts-adminPanel_backend/
 ├── src/
 │   ├── config/         # DB and env config
@@ -44,7 +45,7 @@ nodejs-ts-adminPanel_backend/
 ├── package.json
 ├── tsconfig.json
 └── README.md
-
+```
 ---
 
 ## ⚙️ Setup & Run
